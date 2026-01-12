@@ -43,8 +43,8 @@ Wi-Fi connection
 🚀 One-Command Setup
 git clone <repo-url>
 cd <repo-folder>
-chmod +x install_printer_email_system.sh
-./install_printer_email_system.sh
+chmod +x smartprinter.sh
+./smartprinter.sh
 
 
 No manual configuration required.
