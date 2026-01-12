@@ -41,8 +41,8 @@ Gmail account with App Password
 Wi-Fi connection
 
 🚀 One-Command Setup
-git clone <repo-url>
-cd <repo-folder>
+git clone https://github.com/sudojobs/smartprinter.git
+cd smartprinter
 chmod +x smartprinter.sh
 ./smartprinter.sh
 
